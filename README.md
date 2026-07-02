@@ -8,4 +8,8 @@ A collection of my Leetcode problem solution written in Java.
 | ------- |
 | [0175-combine-two-tables](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/itzyash0601/Leetcode-solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
