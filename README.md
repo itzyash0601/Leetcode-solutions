@@ -17,6 +17,7 @@ A collection of my Leetcode problem solution written in Java.
 | [0619-biggest-single-number](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 ## Math
