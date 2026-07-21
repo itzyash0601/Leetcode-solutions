@@ -29,4 +29,16 @@ A collection of my Leetcode problem solution written in Java.
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/itzyash0601/Leetcode-solutions/tree/master/2235-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
