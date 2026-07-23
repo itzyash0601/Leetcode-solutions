@@ -26,6 +26,7 @@ A collection of my Leetcode problem solution written in Java.
 | [1587-bank-account-summary-ii](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Math
 |  |
 | ------- |
