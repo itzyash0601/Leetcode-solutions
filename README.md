@@ -23,6 +23,7 @@ A collection of my Leetcode problem solution written in Java.
 | [1179-reformat-department-table](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/itzyash0601/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
