@@ -38,10 +38,12 @@ A collection of my Leetcode problem solution written in Java.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/itzyash0601/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
